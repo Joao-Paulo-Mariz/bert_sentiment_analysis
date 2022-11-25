@@ -1,4 +1,4 @@
-# <font color='blue'>Projeto  2 - Análise de sentimentos</font>
+# <font color='blue'>Projeto  2 - Análise de sentimentos com BERT</font>
     
 Análise de sentimentos é um campo do processamento de linguagem natural que busca a partir de textos/reviews de cliente e usuários determinar quais sentimentos os clientes expressaram. Essa técnica possibilita empresas melhorarem seus serviços, produtos, processos e políticas de atendimento ao público.
 
